@@ -4,7 +4,7 @@ import NavItems from "./NavItems";
 import PrimaryButton from "../../Components/PrimaryButton/PrimaryButton";
 import ComImg from "../../assets/fi_2111432.svg";
 import NavImg from "../../assets/logo.png";
-import { Link } from "react-router";
+import { Link, NavLink } from "react-router";
 const NavBar = () => {
   return (
     <div className="flex justify-between items-center">
@@ -29,12 +29,12 @@ const NavBar = () => {
           <NavItems />
         </ul>
       </div>
-      <div>
+      <NavLink to="https://github.com/azizulha05/heros-app">
         <PrimaryButton classes="bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)]">
           <img src={ComImg} alt="ComImg" />
           Contribute
         </PrimaryButton>
-      </div>
+      </NavLink>
     </div>
   );
 };
