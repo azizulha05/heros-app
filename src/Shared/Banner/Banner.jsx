@@ -3,6 +3,7 @@ import btnGP from "../../assets/fi_16076057.svg";
 import btnAS from "../../assets/fi_5977575.svg";
 import logoBanner from "../../assets/hero.png";
 import PrimaryButton from "../../Components/PrimaryButton/PrimaryButton";
+import { NavLink } from "react-router";
 
 const Banner = () => {
   return (
@@ -21,18 +22,26 @@ const Banner = () => {
           impact.
         </p>
         <div className="flex flex-wrap items-center justify-center gap-2">
-          <div className="bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] rounded w-48">
+          <NavLink
+            to="https://play.google.com/store/apps?hl=en"
+            target="_blank"
+            className="bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] rounded w-48"
+          >
             <PrimaryButton classes="w-full">
               <img className="w-6 h-6" src={btnGP} alt="btnGP" />
               Google Play
             </PrimaryButton>
-          </div>
-          <div className="bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] rounded w-48">
+          </NavLink>
+          <NavLink
+            to="https://www.apple.com/store"
+            target="_blank"
+            className="bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)] rounded w-48"
+          >
             <PrimaryButton classes="w-full">
               <img className="w-6 h-6" src={btnAS} alt="btnAS" />
               App Store
             </PrimaryButton>
-          </div>
+          </NavLink>
         </div>
       </section>
       <section className="flex justify-center items-center">
