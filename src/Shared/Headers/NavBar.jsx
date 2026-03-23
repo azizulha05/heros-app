@@ -29,7 +29,7 @@ const NavBar = () => {
           <NavItems />
         </ul>
       </div>
-      <NavLink to="https://github.com">
+      <NavLink to="https://github.com/azizulha05/">
         <PrimaryButton classes="bg-[linear-gradient(125deg,#632EE3_5.68%,#9F62F2_88.38%)]">
           <img src={ComImg} alt="ComImg" />
           Contribute
