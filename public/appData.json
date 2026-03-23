@@ -1,0 +1,545 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 1,
+    "description": "Instagram is a globally recognized social media platform designed for sharing photos, videos, reels, and stories with a wide audience. It enables users to express creativity using filters, editing tools, music, and augmented reality effects. Over time, Instagram has evolved into more than just a photo-sharing app; it is now a complete ecosystem for communication, marketing, and entertainment. Users can interact through likes, comments, and direct messages, while also discovering new content via hashtags and personalized recommendations. Businesses and influencers use Instagram to promote products, build brand identity, and connect with followers. The app also includes shopping features, allowing users to purchase products directly. With billions of active users worldwide, Instagram plays a major role in shaping digital culture and trends. Its continuous updates and features like Reels and Live streaming keep it competitive in the ever-evolving social media landscape.",
+    "size": 75,
+    "reviews": "150M",
+    "ratingAvg": 4.3,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "12" },
+      { "name": "2 star", "count": "8" },
+      { "name": "3 star", "count": "15" },
+      { "name": "4 star", "count": "40" },
+      { "name": "5 star", "count": "75" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 2,
+    "description": "YouTube is the largest video-sharing platform in the world, offering a vast library of content across categories such as entertainment, education, technology, and lifestyle. Users can watch, upload, and share videos while engaging with creators through likes, comments, and subscriptions. The platform supports content creators with monetization options including ads, memberships, and sponsorships. YouTube also features live streaming and short-form content through YouTube Shorts. Its powerful recommendation system helps users discover relevant videos based on their interests. With multilingual support and global reach, YouTube serves billions of users daily. It is widely used for learning new skills, entertainment, and staying informed about current events. The app’s intuitive interface and accessibility across devices make it a cornerstone of digital media consumption worldwide.",
+    "size": 85,
+    "reviews": "200M",
+    "ratingAvg": 4.5,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": "15" },
+      { "name": "2 star", "count": "9" },
+      { "name": "3 star", "count": "20" },
+      { "name": "4 star", "count": "60" },
+      { "name": "5 star", "count": "96" }
+    ]
+  },
+
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms Inc.",
+    "id": 3,
+    "description": "WhatsApp is one of the most widely used messaging applications globally, enabling users to send text messages, voice notes, images, videos, and documents instantly. It also supports high-quality voice and video calls using internet connectivity. Known for its strong end-to-end encryption, WhatsApp ensures that conversations remain secure and private. Users can create group chats, share status updates, and even send their live location. The app has become essential for both personal and professional communication. WhatsApp Business further enhances its functionality by allowing businesses to connect with customers efficiently. With billions of users, WhatsApp continues to evolve by adding new features like communities and payment integration. Its simple interface, reliability, and cross-platform availability make it one of the most important communication tools in the modern digital world.",
+    "size": 45,
+    "reviews": "180M",
+    "ratingAvg": 4.4,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "13" },
+      { "name": "2 star", "count": "8" },
+      { "name": "3 star", "count": "16" },
+      { "name": "4 star", "count": "50" },
+      { "name": "5 star", "count": "93" }
+    ]
+  },
+
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 4,
+    "description": "Netflix is a subscription-based streaming platform offering a wide range of movies, TV shows, documentaries, and original content. Users can watch content on demand without advertisements and enjoy high-quality streaming across devices. Netflix provides personalized recommendations based on viewing history, making it easy for users to discover new content. The platform also supports offline downloads, multiple profiles, and parental controls. Known for its award-winning original productions, Netflix continues to expand its global reach. Its user-friendly interface and extensive content library make it one of the leading entertainment platforms worldwide.",
+    "size": 95,
+    "reviews": "120M",
+    "ratingAvg": 4.2,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "9" },
+      { "name": "2 star", "count": "7" },
+      { "name": "3 star", "count": "14" },
+      { "name": "4 star", "count": "35" },
+      { "name": "5 star", "count": "55" }
+    ]
+  },
+
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Maps_icon_%282020%29.svg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 5,
+    "description": "Google Maps is a navigation and mapping application that helps users explore locations, find directions, and discover nearby places. It provides real-time traffic updates, route suggestions, and estimated travel times. Users can search for restaurants, businesses, and landmarks, read reviews, and view photos. Google Maps also offers features like offline maps, street view, and location sharing. It is widely used for daily commuting, travel planning, and discovering new destinations. The app’s accuracy and extensive database make it an essential tool for navigation worldwide.",
+    "size": 70,
+    "reviews": "110M",
+    "ratingAvg": 4.4,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": "8" },
+      { "name": "2 star", "count": "6" },
+      { "name": "3 star", "count": "12" },
+      { "name": "4 star", "count": "34" },
+      { "name": "5 star", "count": "50" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 6,
+    "description": "Facebook is a leading social networking platform that enables users to connect with friends, family, and communities worldwide. Users can share status updates, photos, videos, and links while engaging with posts through likes, comments, and shares. The platform offers groups, pages, and events to foster social interaction and community building. Businesses use Facebook to run advertisements, interact with customers, and build brand awareness. The app also includes marketplace features for buying and selling items locally. Over the years, Facebook has evolved into a multi-faceted ecosystem for communication, content consumption, and digital marketing. Its algorithms provide personalized content feeds, helping users discover new connections, interests, and trending topics. With billions of users globally, Facebook continues to influence social media, culture, and online interaction.",
+    "size": 100,
+    "reviews": "200M",
+    "ratingAvg": 4.0,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "20" },
+      { "name": "2 star", "count": "15" },
+      { "name": "3 star", "count": "25" },
+      { "name": "4 star", "count": "60" },
+      { "name": "5 star", "count": "80" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/TikTok_logo.svg",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 7,
+    "description": "TikTok is a short-form video platform that has revolutionized social media entertainment. Users can create, edit, and share videos up to a few minutes long with music, effects, filters, and AR tools. The app’s algorithm recommends content personalized for each user, making discovery of new creators and trends seamless. TikTok is widely used for entertainment, educational content, comedy, dance challenges, and viral trends. Influencers and brands leverage the platform to reach large audiences, promote products, and grow online presence. TikTok’s global reach has made it a cultural phenomenon, with millions of daily active users sharing and consuming content. Its ease of use, creative tools, and trend-focused feed make it highly addictive and continuously evolving.",
+    "size": 80,
+    "reviews": "130M",
+    "ratingAvg": 4.4,
+    "downloads": "3B",
+    "ratings": [
+      { "name": "1 star", "count": "10" },
+      { "name": "2 star", "count": "5" },
+      { "name": "3 star", "count": "15" },
+      { "name": "4 star", "count": "40" },
+      { "name": "5 star", "count": "60" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Spotify_icon.svg",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "id": 8,
+    "description": "Spotify is a leading music streaming service that allows users to listen to millions of tracks, podcasts, and playlists worldwide. It offers free and premium subscription models, giving access to ad-supported or ad-free listening experiences. Users can discover music tailored to their tastes with algorithm-driven recommendations, curated playlists, and daily mixes. Spotify also supports offline listening and cross-device syncing, making it convenient for users on the go. Artists use Spotify to distribute their music globally and connect with fans. The app has a robust podcast library, featuring both entertainment and educational content. Its user-friendly interface and personalization features make it one of the most popular music platforms in the world.",
+    "size": 85,
+    "reviews": "100M",
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "8" },
+      { "name": "2 star", "count": "5" },
+      { "name": "3 star", "count": "12" },
+      { "name": "4 star", "count": "30" },
+      { "name": "5 star", "count": "45" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 9,
+    "description": "Snapchat is a multimedia messaging app known for its disappearing messages, stories, and interactive AR lenses. It allows users to send photos, videos, and text messages that disappear after being viewed. Snapchat’s camera-focused design includes filters, effects, and augmented reality tools, making communication fun and interactive. Users can follow friends, celebrities, and publishers, as well as view stories and content on Discover. The app also supports group chats, Snap Map for location sharing, and Spotlight for viral short-form videos. Snapchat emphasizes privacy and creativity, appealing especially to younger audiences. Brands use Snapchat for marketing campaigns, augmented reality experiences, and influencer engagement. Its innovative features and playful interface have kept it competitive in the social media landscape.",
+    "size": 75,
+    "reviews": "85M",
+    "ratingAvg": 4.1,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "7" },
+      { "name": "2 star", "count": "4" },
+      { "name": "3 star", "count": "10" },
+      { "name": "4 star", "count": "20" },
+      { "name": "5 star", "count": "44" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 10,
+    "description": "Telegram is a cloud-based messaging app emphasizing speed, security, and privacy. Users can send text messages, multimedia, documents, and stickers, as well as create group chats with thousands of members. Telegram offers end-to-end encryption in secret chats and supports large file sharing. The platform also includes channels for broadcasting content, bots for automation, and voice/video call functionality. Its cloud storage allows messages and media to be synchronized across multiple devices. Telegram has gained popularity for its privacy features, high-speed communication, and customization options. Businesses, communities, and influencers use it to reach audiences directly and securely. With a growing user base globally, Telegram is a versatile messaging platform.",
+    "size": 65,
+    "reviews": "75M",
+    "ratingAvg": 4.3,
+    "downloads": "700M",
+    "ratings": [
+      { "name": "1 star", "count": "6" },
+      { "name": "2 star", "count": "3" },
+      { "name": "3 star", "count": "10" },
+      { "name": "4 star", "count": "20" },
+      { "name": "5 star", "count": "36" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Zoom_Communications_logo.svg",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 11,
+    "description": "Zoom is a video conferencing platform widely used for online meetings, webinars, and collaboration. It supports HD video and audio, screen sharing, recording, and virtual backgrounds. Zoom allows meetings with multiple participants, breakout rooms, and real-time chat, making it ideal for business, education, and remote work. The platform emphasizes ease of use, reliability, and accessibility across devices. Zoom has become a key tool for communication globally, enabling professionals and students to stay connected. Its continuous updates introduce features like live transcription, scheduling, and integration with productivity tools. Zoom’s scalability and robust infrastructure make it a preferred solution for remote collaboration in various industries.",
+    "size": 90,
+    "reviews": "95M",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "5" },
+      { "name": "2 star", "count": "4" },
+      { "name": "3 star", "count": "10" },
+      { "name": "4 star", "count": "25" },
+      { "name": "5 star", "count": "51" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.svg",
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "id": 12,
+    "description": "Uber is a ride-hailing app that connects passengers with drivers globally. It offers convenient, cashless, and on-demand transportation services through its mobile platform. Users can choose ride types based on budget, comfort, or group size. Uber provides real-time tracking, fare estimates, driver ratings, and secure payment options. Beyond rides, the platform includes Uber Eats for food delivery. Uber has transformed urban mobility, creating flexible earning opportunities for drivers and enhancing convenience for passengers. Its technology-driven approach ensures safety, efficiency, and seamless user experiences across cities worldwide.",
+    "size": 80,
+    "reviews": "70M",
+    "ratingAvg": 4.2,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "6" },
+      { "name": "2 star", "count": "4" },
+      { "name": "3 star", "count": "10" },
+      { "name": "4 star", "count": "20" },
+      { "name": "5 star", "count": "30" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "title": "Amazon",
+    "companyName": "Amazon Inc.",
+    "id": 13,
+    "description": "Amazon is one of the world's largest online shopping platforms, offering a massive selection of products ranging from electronics and apparel to groceries and household goods. The app allows users to browse, compare, and purchase items with ease. Features include personalized recommendations, wish lists, product reviews, and lightning deals. Amazon Prime members enjoy additional benefits such as fast shipping, exclusive content, and Prime Video streaming. The platform also provides services like Amazon Fresh, Amazon Music, and Kindle for reading and entertainment. Businesses can sell products on Amazon, reaching a global customer base. The app integrates payment options, order tracking, and customer service support. With millions of daily users, Amazon has transformed e-commerce and remains a leading choice for online shopping worldwide.",
+    "size": 95,
+    "reviews": "180M",
+    "ratingAvg": 4.3,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "12" },
+      { "name": "2 star", "count": "9" },
+      { "name": "3 star", "count": "25" },
+      { "name": "4 star", "count": "60" },
+      { "name": "5 star", "count": "74" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 14,
+    "description": "Gmail is a free email service developed by Google, widely used for personal and professional communication. It provides users with secure, reliable, and efficient email management. Features include labels, filters, spam protection, smart replies, and integration with Google Workspace apps like Google Drive, Calendar, and Docs. Gmail supports multiple accounts, offline access, and mobile notifications. Its search functionality makes it easy to find messages quickly. Gmail also integrates with third-party apps for productivity and communication. With its robust security, intuitive interface, and cross-platform accessibility, Gmail remains a leading choice for email services around the world, catering to billions of users daily.",
+    "size": 65,
+    "reviews": "150M",
+    "ratingAvg": 4.5,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "8" },
+      { "name": "2 star", "count": "5" },
+      { "name": "3 star", "count": "12" },
+      { "name": "4 star", "count": "35" },
+      { "name": "5 star", "count": "90" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Drive_icon.svg",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 15,
+    "description": "Google Drive is a cloud storage service that allows users to securely store, access, and share files online. It supports documents, images, videos, and other file types, providing seamless integration with Google Docs, Sheets, and Slides. Users can collaborate in real time, control sharing permissions, and access files across devices. Google Drive offers offline access, file version history, and search functionality powered by Google AI. It is widely used for work, education, and personal storage, enabling collaboration between teams and individuals. With its user-friendly interface and robust security features, Google Drive is a leading platform for cloud-based file management worldwide.",
+    "size": 75,
+    "reviews": "120M",
+    "ratingAvg": 4.6,
+    "downloads": "2B",
+    "ratings": [
+      { "name": "1 star", "count": "5" },
+      { "name": "2 star", "count": "3" },
+      { "name": "3 star", "count": "10" },
+      { "name": "4 star", "count": "30" },
+      { "name": "5 star", "count": "72" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Microsoft_Teams_logo.svg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 16,
+    "description": "Microsoft Teams is a collaboration platform for businesses and educational institutions, combining chat, video meetings, file storage, and app integrations. It supports team channels, group chats, and video conferencing with screen sharing. Teams integrates seamlessly with Microsoft 365 apps like Word, Excel, and PowerPoint, allowing real-time collaboration. Users can schedule meetings, record sessions, and manage projects efficiently. The platform is designed for both small teams and large organizations, providing security, scalability, and productivity tools. Microsoft Teams has become essential for remote work and virtual classrooms, helping organizations communicate, share knowledge, and collaborate effectively across the globe.",
+    "size": 100,
+    "reviews": "85M",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "6" },
+      { "name": "2 star", "count": "5" },
+      { "name": "3 star", "count": "12" },
+      { "name": "4 star", "count": "20" },
+      { "name": "5 star", "count": "42" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 17,
+    "description": "Pinterest is a visual discovery and bookmarking platform that allows users to explore and save ideas on topics like home décor, fashion, recipes, and more. Users create boards to organize content and discover new inspiration through pins. The app supports search functionality, personalized recommendations, and social sharing. Businesses use Pinterest for marketing, product promotion, and trend analysis. Pinterest has become a hub for creative expression and planning, helping users gather ideas and take action on their interests. Its intuitive interface and visually engaging content make it one of the leading platforms for inspiration and discovery globally.",
+    "size": 60,
+    "reviews": "50M",
+    "ratingAvg": 4.2,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "3" },
+      { "name": "2 star", "count": "2" },
+      { "name": "3 star", "count": "8" },
+      { "name": "4 star", "count": "15" },
+      { "name": "5 star", "count": "22" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "id": 18,
+    "description": "LinkedIn is a professional networking platform that helps users build careers, connect with colleagues, and discover job opportunities. Users can create profiles highlighting work experience, skills, and education. The platform includes a news feed, messaging, groups, and content publishing tools. Businesses use LinkedIn for recruiting, marketing, and professional branding. It also supports learning through LinkedIn Learning courses. LinkedIn fosters professional connections, knowledge sharing, and career growth. With millions of users globally, it has become an essential platform for professionals and organizations looking to network, hire, and grow their influence in their industries.",
+    "size": 70,
+    "reviews": "90M",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "5" },
+      { "name": "2 star", "count": "3" },
+      { "name": "3 star", "count": "12" },
+      { "name": "4 star", "count": "25" },
+      { "name": "5 star", "count": "45" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Shazam_logo.svg",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 19,
+    "description": "Shazam is a music recognition app that identifies songs playing in the environment within seconds. Users simply tap the Shazam button, and the app listens to the audio, providing the song title, artist, and links to streaming platforms. Shazam also offers lyrics, playlists, charts, and recommendations based on listening habits. It integrates with Apple Music and Spotify, enabling users to save and play discovered tracks instantly. Shazam has become a favorite tool for music discovery and exploration, providing a seamless experience for users who want to quickly identify and enjoy songs. Its fast recognition and rich database make it a widely used app globally.",
+    "size": 50,
+    "reviews": "45M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "3" },
+      { "name": "2 star", "count": "2" },
+      { "name": "3 star", "count": "8" },
+      { "name": "4 star", "count": "12" },
+      { "name": "5 star", "count": "20" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Duolingo_logo.svg",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 20,
+    "description": "Duolingo is a language-learning platform that makes learning new languages fun and interactive. It offers lessons in reading, writing, speaking, and listening across more than 40 languages. The app uses gamification, daily challenges, and progress tracking to motivate users. Duolingo also includes stories, podcasts, and practice exercises for deeper learning. Its personalized learning path adapts to user performance and skill level, ensuring effective retention. Teachers and schools can use Duolingo for classroom support, while individuals benefit from a flexible, mobile-friendly approach. With millions of active users worldwide, Duolingo has become a leading educational tool for language learning.",
+    "size": 80,
+    "reviews": "60M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "2" },
+      { "name": "2 star", "count": "2" },
+      { "name": "3 star", "count": "10" },
+      { "name": "4 star", "count": "18" },
+      { "name": "5 star", "count": "28" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Twitch_logo_2019.svg",
+    "title": "Twitch",
+    "companyName": "Twitch Interactive",
+    "id": 21,
+    "description": "Twitch is a live-streaming platform primarily focused on gaming, eSports, creative content, and live events. Users can watch streamers in real time, interact via chat, and follow channels of interest. Twitch provides monetization options such as subscriptions, Bits, and donations for creators. It also hosts virtual events, tournaments, and interactive content for a global audience. The platform’s recommendation system helps users discover new streams and communities. Twitch’s mobile app allows users to watch, chat, and follow content on the go. It has grown into one of the most influential platforms for gamers, creators, and fans worldwide.",
+    "size": 85,
+    "reviews": "55M",
+    "ratingAvg": 4.4,
+    "downloads": "300M",
+    "ratings": [
+      { "name": "1 star", "count": "4" },
+      { "name": "2 star", "count": "3" },
+      { "name": "3 star", "count": "10" },
+      { "name": "4 star", "count": "15" },
+      { "name": "5 star", "count": "23" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg",
+    "title": "Airbnb",
+    "companyName": "Airbnb Inc.",
+    "id": 22,
+    "description": "Airbnb is a platform that connects travelers with hosts offering accommodations worldwide. Users can browse homes, apartments, and unique stays, book with flexible dates, and communicate directly with hosts. The app provides verified listings, reviews, and experiences to enhance travel planning. Hosts can list properties, manage reservations, and provide local experiences. Airbnb has transformed travel by enabling personalized stays and cultural experiences. It includes features like flexible cancellations, secure payments, and guided suggestions. The app has become a preferred platform for travelers seeking affordable, authentic, and unique accommodations globally.",
+    "size": 75,
+    "reviews": "40M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "2" },
+      { "name": "2 star", "count": "2" },
+      { "name": "3 star", "count": "6" },
+      { "name": "4 star", "count": "15" },
+      { "name": "5 star", "count": "15" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Booking.com_logo.svg",
+    "title": "Booking.com",
+    "companyName": "Booking Holdings Inc.",
+    "id": 23,
+    "description": "Booking.com is a travel fare aggregator and online booking platform for lodging, flights, and rental cars. Users can compare prices, read reviews, view photos, and make reservations instantly. The app supports filters for preferences like price, location, amenities, and property type. Booking.com provides customer service support, flexible cancellation policies, and multilingual access. Travelers can manage bookings, access confirmations offline, and find local experiences. The platform has become one of the leading travel booking apps globally, trusted by millions of users for reliable and convenient travel planning.",
+    "size": 70,
+    "reviews": "30M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "2" },
+      { "name": "2 star", "count": "1" },
+      { "name": "3 star", "count": "6" },
+      { "name": "4 star", "count": "10" },
+      { "name": "5 star", "count": "11" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings Inc.",
+    "id": 24,
+    "description": "PayPal is a digital payment platform that enables users to send, receive, and manage money online securely. Users can link bank accounts, credit cards, and debit cards to make payments globally. PayPal supports online shopping, peer-to-peer transfers, invoicing, and subscription payments. The app provides strong encryption, fraud protection, and dispute resolution to ensure security. Businesses can integrate PayPal for e-commerce and mobile payments. With millions of active users worldwide, PayPal has become a trusted platform for personal and business financial transactions, offering convenience and reliability in digital finance.",
+    "size": 65,
+    "reviews": "80M",
+    "ratingAvg": 4.4,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "5" },
+      { "name": "2 star", "count": "4" },
+      { "name": "3 star", "count": "12" },
+      { "name": "4 star", "count": "25" },
+      { "name": "5 star", "count": "34" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Cash_App_logo.svg",
+    "title": "Cash App",
+    "companyName": "Block Inc.",
+    "id": 25,
+    "description": "Cash App is a mobile payment service that allows users to send and receive money instantly. Users can link bank accounts, debit cards, and credit cards for quick transfers. The app also offers features like investing in stocks and Bitcoin, direct deposit, and a Cash Card for purchases. Cash App emphasizes security with encryption and fraud protection. It is widely used for peer-to-peer payments, bill splitting, and small business transactions. Cash App provides a user-friendly interface for managing finances digitally and has become a popular financial tool in North America and beyond.",
+    "size": 50,
+    "reviews": "45M",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "3" },
+      { "name": "2 star", "count": "2" },
+      { "name": "3 star", "count": "8" },
+      { "name": "4 star", "count": "12" },
+      { "name": "5 star", "count": "20" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Canva_Logo.svg",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 26,
+    "description": "Canva is an intuitive graphic design platform that allows users to create professional-quality visuals for social media, marketing materials, presentations, posters, and documents. The app offers a drag-and-drop interface, thousands of templates, stock photos, icons, fonts, and design elements to make content creation accessible to everyone, even without prior design experience. Canva supports collaborative features, enabling teams to work on projects in real time. Users can export designs in multiple formats for web, print, or social media. Canva has become an essential tool for students, entrepreneurs, businesses, and marketers seeking high-quality visuals quickly. Its mobile and web versions provide flexibility, while continuous feature updates like video editing, animations, and branding kits make it a complete design solution.",
+    "size": 90,
+    "reviews": "35M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "2" },
+      { "name": "2 star", "count": "1" },
+      { "name": "3 star", "count": "5" },
+      { "name": "4 star", "count": "10" },
+      { "name": "5 star", "count": "17" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Khan_Academy_logo.svg",
+    "title": "Khan Academy",
+    "companyName": "Khan Academy",
+    "id": 27,
+    "description": "Khan Academy is an educational app that provides free, world-class learning resources for students of all ages. It offers lessons in math, science, economics, humanities, and test preparation. The app includes interactive exercises, instructional videos, and progress tracking. Khan Academy allows personalized learning paths, enabling students to learn at their own pace. Teachers can monitor class progress and assign lessons. Its mobile accessibility ensures learning on the go. Khan Academy’s mission is to make education accessible to everyone, globally, breaking barriers for underserved communities. With millions of users worldwide, the app supports lifelong learning, tutoring, and professional skill development in a user-friendly and structured environment.",
+    "size": 60,
+    "reviews": "25M",
+    "ratingAvg": 4.8,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": "1" },
+      { "name": "2 star", "count": "50" },
+      { "name": "3 star", "count": "3" },
+      { "name": "4 star", "count": "8" },
+      { "name": "5 star", "count": "12" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Reddit_logo_new.svg",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 28,
+    "description": "Reddit is a social media platform and forum network where users can post content, share links, ask questions, and discuss topics in communities called subreddits. Each subreddit is focused on a particular interest, hobby, or subject, ranging from technology and gaming to education and news. Users can vote content up or down, comment, and participate in discussions. Reddit also includes live chat, awards, and moderation tools for community management. Its anonymity and vast community make it a unique platform for sharing opinions, advice, and entertainment. Businesses and marketers use Reddit for community engagement and audience insights. With millions of active users globally, Reddit has become an influential platform for information, discussion, and trend discovery.",
+    "size": 70,
+    "reviews": "45M",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "3" },
+      { "name": "2 star", "count": "2" },
+      { "name": "3 star", "count": "8" },
+      { "name": "4 star", "count": "15" },
+      { "name": "5 star", "count": "17" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Discord_logo_wordmark.svg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 29,
+    "description": "Discord is a communication platform primarily designed for gamers, communities, and groups to chat via text, voice, and video. Users can create servers, organize channels, and manage roles for structured discussions. Discord supports live streaming, screen sharing, and integration with third-party apps for enhanced community engagement. Its features allow private messaging, direct communication, and robust moderation tools. Discord’s mobile and desktop apps provide seamless connectivity, making it popular for gaming, online learning, fan communities, and social groups. With millions of users worldwide, Discord has become a versatile platform for collaboration, entertainment, and social interaction.",
+    "size": 75,
+    "reviews": "40M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "2" },
+      { "name": "2 star", "count": "1" },
+      { "name": "3 star", "count": "6" },
+      { "name": "4 star", "count": "12" },
+      { "name": "5 star", "count": "19" }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Twitch_logo_2019.svg",
+    "title": "Twitch (Final App)",
+    "companyName": "Twitch Interactive",
+    "id": 30,
+    "description": "Twitch is a live streaming platform primarily focused on video gaming, eSports, and creative content. Users can watch live streams, chat with streamers, and follow channels of interest. Twitch also hosts interactive events, tournaments, and exclusive broadcasts. The platform provides monetization options for creators through subscriptions, Bits, and donations. Its mobile and desktop applications allow seamless viewing, chat interaction, and notifications for favorite channels. Twitch has become a global hub for gamers and content creators to connect with audiences, share gameplay, and engage in online communities. Its real-time interaction and entertainment features make it a top destination for live digital content.",
+    "size": 85,
+    "reviews": "55M",
+    "ratingAvg": 4.4,
+    "downloads": "300M",
+    "ratings": [
+      { "name": "1 star", "count": "4" },
+      { "name": "2 star", "count": "3" },
+      { "name": "3 star", "count": "10" },
+      { "name": "4 star", "count": "15" },
+      { "name": "5 star", "count": "23" }
+    ]
+  }
+]
